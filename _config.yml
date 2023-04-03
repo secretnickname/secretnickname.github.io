@@ -12,7 +12,7 @@ tags:
 show_hero: true
 menu:
   - title: Home
-    url: /
+    url: https://github.com/users/secretnickname/projects/1/views/1
   - title: About
     url: /about
   - title: Contact
@@ -48,7 +48,7 @@ two_columns_layout: true
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site
 google_analytics: "UA-XXXXXXXX-X"
-language: "kr"
+language: "en"
 categories_folder: category
 sent_message_url: "/contact/message-sent/"
 
