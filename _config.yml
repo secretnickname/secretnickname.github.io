@@ -12,7 +12,7 @@ tags:
 show_hero: true
 menu:
   - title: Home
-    url: https://github.com/users/secretnickname/projects/1/views/1
+    url: /
   - title: About
     url: /about
   - title: Contact
